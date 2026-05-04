@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://dallasbankruptcy.org/sitemap.xml
